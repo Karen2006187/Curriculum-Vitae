@@ -1,0 +1,114 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background-color: antiquewhite;
+    font-family: "Emblema One", system-ui;
+}
+
+section#hero{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: turquoise;
+    padding: 60px;
+    margin: 30px;
+    border: 5px solid lightblue;
+    background-color: pink;
+}
+
+section#hero img{
+    width: 300px;
+    margin: 15px;
+}
+
+section#hero h1{
+    font-size: 3rem;
+
+
+
+
+}
+
+
+section#hero h2{
+    font-size: 2rem;
+
+}
+
+
+
+section#Datos-personales{
+    padding: 60px;
+    margin: 30px;
+    border: 5px solid lightblue;
+    background-color: pink;
+
+}
+
+
+
+
+.estudios{
+    padding: 60px;
+    margin: 30px;
+    border: 5px solid lightblue;
+}
+
+.acercademi{
+    padding: 60px;
+    margin: 30px;
+    border: 5px solid lightblue;
+    background-color: pink;
+}
+
+section#librospublicados h2{
+    padding: 30px;
+    background-color: pink;
+}
+
+
+.libros-publicados{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.cadalibro{
+    border: 2px solid violet;
+    width: 300px;
+    margin: 15px;
+}
+
+.cadalibro img{
+    width: 100%;
+}
+
+#myDIV {
+    width: 200px;
+    height: 80%;
+    background: rgb(186, 132, 251);
+    -webkit-transition: width 5s; 
+    transition: width 4s;
+}
+
+
+#myDIV:hover {
+    width: 80%;
+}
+
+#boton{
+    background-color: rgb(209, 84, 231);
+    color: white;
+}
+
+#boton2{
+    background-color: rgb(209, 84, 231);
+    color: white;
+}
