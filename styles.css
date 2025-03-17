@@ -90,7 +90,7 @@ section#librospublicados h2{
     width: 100%;
 }
 
-#myDIV {
+#myDIV{
     width: 200px;
     height: 80%;
     background: rgb(186, 132, 251);
@@ -99,7 +99,7 @@ section#librospublicados h2{
 }
 
 
-#myDIV:hover {
+#myDIV:hover{
     width: 80%;
 }
 
